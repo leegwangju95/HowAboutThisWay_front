@@ -164,7 +164,7 @@ T-Map API를 사용하기 위해 다음 설정이 필요합니다:
 프로젝트에 대한 문의사항이 있으시면 이슈를 생성해 주세요.
 
 ## 이길어때 서비스 백엔드 repository 주소
-"https://github.com/pigg4949/HowAboutThisWay_back"
----
+
+## "https://github.com/pigg4949/HowAboutThisWay_back"
 
 **HATW** - 더 나은 접근성을 위한 길찾기 서비스 🚶‍♂️♿
